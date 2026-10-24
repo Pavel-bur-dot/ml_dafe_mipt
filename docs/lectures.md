@@ -17,24 +17,17 @@
 | 1 | Introduction. Naive Bayes, kNN | 1, повтор | [8s9073kNXgY](https://www.youtube.com/watch?v=8s9073kNXgY&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
 | 2 | Linear Regression | 2 | [GKIkGc2bnmU](https://www.youtube.com/watch?v=GKIkGc2bnmU&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
 | 3 | Linear Classification & Logistic Regression | 3 | [_SUJsDLtJsE](https://www.youtube.com/watch?v=_SUJsDLtJsE&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
-| 4 | SVM. PCA | 3 до PCA, 5 после | [C9nop0dgJc4](https://www.youtube.com/watch?v=C9nop0dgJc4&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
+| 4 | SVM. PCA | 5 | [C9nop0dgJc4](https://www.youtube.com/watch?v=C9nop0dgJc4&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
 | 5 | Cross validation. BVD | 4 | [-taRv4WTUbo](https://www.youtube.com/watch?v=-taRv4WTUbo&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
-| 6 | Decision trees and Ensembles | 6 | [-0Do2_WIJAQ](https://www.youtube.com/watch?v=-0Do2_WIJAQ&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
-| 7 | Gradient boosting | 6 | [hTECDpL_JYM](https://www.youtube.com/watch?v=hTECDpL_JYM&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
-| 8 | Intro to Deep Learning | 7 | [wgWfAMhw5ik](https://www.youtube.com/watch?v=wgWfAMhw5ik&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
-| 9 | Optimization and regularization in Deep Learning | 7, по желанию | [XWAvufvzk2M](https://www.youtube.com/watch?v=XWAvufvzk2M&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
-| 10 | Recurrent Neural Networks and Language Models | 8 | [TkFBozjO72Y](https://www.youtube.com/watch?v=TkFBozjO72Y&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
-| 11 | Convolutional neural networks | 7 | [6_vFNBwfK28](https://www.youtube.com/watch?v=6_vFNBwfK28&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
+| 6 | Decision trees and Ensembles | 8 | [-0Do2_WIJAQ](https://www.youtube.com/watch?v=-0Do2_WIJAQ&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
+| 7 | Gradient boosting | 9 | [hTECDpL_JYM](https://www.youtube.com/watch?v=hTECDpL_JYM&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
+| 8 | Intro to Deep Learning | по желанию | [wgWfAMhw5ik](https://www.youtube.com/watch?v=wgWfAMhw5ik&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
+| 9 | Optimization and regularization in Deep Learning | по желанию | [XWAvufvzk2M](https://www.youtube.com/watch?v=XWAvufvzk2M&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
+| 10 | Recurrent Neural Networks and Language Models | по желанию | [TkFBozjO72Y](https://www.youtube.com/watch?v=TkFBozjO72Y&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
+| 11 | Convolutional neural networks | по желанию | [6_vFNBwfK28](https://www.youtube.com/watch?v=6_vFNBwfK28&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
 
-## Статьи к занятиям 9 и 10
-
-К этим занятиям вместо видео читается статья. Целиком разбирать
-не нужно: достаточно понять схему модели и главную идею.
-
-| Занятие | Статья | Ссылка |
-|:--:|:--|:--|
-| 9 | Vaswani et al., Attention Is All You Need, 2017 | [arXiv:1706.03762](https://arxiv.org/abs/1706.03762) |
-| 10 | Dosovitskiy et al., An Image is Worth 16x16 Words, 2020 | [arXiv:2010.11929](https://arxiv.org/abs/2010.11929) |
+Глубокое обучение в этом семестре не разбирается; лекции 8–11 оставлены
+для тех, кому интересно посмотреть самостоятельно.
 
 Занятия 11–14 про устройство ML-проекта идут без видео: к ним
 в репозитории будет короткий текст, ссылка появится в расписании
