@@ -22,3 +22,6 @@ classes/**/*_solved.ipynb
 
 # модели, которые ноутбуки сохраняют на диск
 classes/**/artifacts/
+
+# исходники слайдов не публикуются, только pdf
+classes/**/*.pptx
